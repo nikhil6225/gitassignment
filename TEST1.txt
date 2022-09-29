@@ -1,0 +1,19 @@
+
+
+
+
+
+sprint backlog
+
+Product backlog
+> component, version, epic
+
+Story ( sub-task)
+
+> story point
+> Do not give the original estimate 
+
+sub-task  then give the original time estimate 
+
+
+
